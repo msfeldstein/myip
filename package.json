@@ -1,0 +1,14 @@
+{
+  "name": "myip",
+  "version": "1.0.0",
+  "description": "Returns your computers local IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myip": "bin/myip-cmd.js"
+  },
+  "author": "Michael Feldstein <msfeldstein@gmail.com>",
+  "license": "ISC"
+}
